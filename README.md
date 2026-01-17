@@ -17,4 +17,5 @@ A responsive business landing page for a fictional tech diplomacy organization. 
 Open `index.html` in a web browser.
 
 ## Live Demo
-(To be added after deployment)
+https://benjaminolasubomi.github.io/tech-diplomacy-landing-page/
+
